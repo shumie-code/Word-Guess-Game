@@ -12,6 +12,9 @@ body {
     text-align: center;
 }
 
+#title-image {
+    max-width: 50%;
+}
 
 h1,h2,h3,
 h4,h5,h6, {
